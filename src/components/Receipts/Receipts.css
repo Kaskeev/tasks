@@ -1,0 +1,19 @@
+.inputs {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.btns-btns {
+  width: 150px;
+  display: block;
+  color: aliceblue;
+  text-decoration: none;
+}
+.btns-btns:hover {
+  color: aliceblue;
+}
+.btn {
+  color: aliceblue;
+  width: 200px;
+}

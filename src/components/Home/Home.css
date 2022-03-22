@@ -1,0 +1,10 @@
+.btns {
+  color: aliceblue;
+  text-decoration: none;
+}
+.block {
+  margin: 10px;
+}
+.btnss:hover {
+  color: aliceblue;
+}
